@@ -1,0 +1,15 @@
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\bin\Debug\net6.0\LabTask#18.exe
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\bin\Debug\net6.0\LabTask#18.deps.json
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\bin\Debug\net6.0\LabTask#18.runtimeconfig.json
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\bin\Debug\net6.0\LabTask#18.dll
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\bin\Debug\net6.0\LabTask#18.pdb
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\obj\Debug\net6.0\LabTask#18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\obj\Debug\net6.0\LabTask#18.AssemblyInfoInputs.cache
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\obj\Debug\net6.0\LabTask#18.AssemblyInfo.cs
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\obj\Debug\net6.0\LabTask#18.csproj.CoreCompileInputs.cache
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\obj\Debug\net6.0\LabTask#18.sourcelink.json
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\obj\Debug\net6.0\LabTask#18.dll
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\obj\Debug\net6.0\refint\LabTask#18.dll
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\obj\Debug\net6.0\LabTask#18.pdb
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\obj\Debug\net6.0\LabTask#18.genruntimeconfig.cache
+D:\Praktikant\GarageTask\LabTask#18\LabTask#18\obj\Debug\net6.0\ref\LabTask#18.dll
